@@ -1,0 +1,5 @@
+pandas
+pandas
+xlrd
+matplotlib
+IPython[all]
